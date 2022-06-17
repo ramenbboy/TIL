@@ -1,35 +1,23 @@
-### ***Nothing better than Daily commit!***
-
+### ***Nothing better than Daily Commit!***
 
 
 2022-06-17 특강 Prof. 오지혜님
-
 * Microsoft VC setting
-
 * github README.md
-
 * user_id.github.io
-
 * CLI cheating sheet
-
   
 
 2022-06-16 특강 Prof. 오지혜님 
-
 * Typora setup (recommand  beta version)
 * Typora cheating sheet
 * Git cheating sheet
 
 
-
 2022-06-11 특강 Prof. 최정수님 
-
 * UI UX 
 
-  
-
-2022-06-15 Prof. Dr Will 양진욱님 
-
+Prof. Dr Will 양진욱님 
 * 바로 써먹는 데이터 분석
 * [실습] subwayfree_202205 자료활용, 유무임 승하차 비율 분석
 * [스터디] 자료구조, 알고리즘 입문 파이썬 완성코드
