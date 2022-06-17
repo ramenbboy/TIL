@@ -6,7 +6,7 @@
 * github README.md
 * user_id.github.io
 * CLI cheating sheet
-  
+
 
 2022-06-16 특강 Prof. 오지혜님 
 * Typora setup (recommand  beta version)
@@ -16,6 +16,7 @@
 
 2022-06-11 특강 Prof. 최정수님 
 * UI UX 
+
 
 Prof. Dr Will 양진욱님 
 * 바로 써먹는 데이터 분석
