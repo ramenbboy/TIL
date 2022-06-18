@@ -1,6 +1,6 @@
 ##### 2022-06-18 
 
-$ git --version
+``` git study $ git --version
 $ git config --list
 $ git config user.name
 $ git config user.email 
@@ -10,30 +10,30 @@ $ mkdir work
 $ cd work
 $ ls -al
 $ git init # .git 생성
-$ open .git (깃 레퍼지터리..) 
-기본 적으로 master branch 가 생성됨 
+$ open .git # 깃 레퍼지터리 기본적으로 master branch 가 생성됨 
 $ rm -rf .git # 삭제하면 더이상 깃이 아님 
 $ ls -al # 조회 
 $ git status 
 $ git config --global alias.st status
 $ git st # 단축키 설정 이용
-$ git config --h # 명령어..확인 가능 
+$ git config --h # 명령어..확인 가능       ```
+```
 
-Git 구조 
+```git 구조
+git 구조
+* working directory
+* staging area
+* .git directory
+```
 
-* working direcotory
-
-- staging area
-- .git directory
-
-$ remote pull / push 
+```$ remote pull / push 
+$ remote pull / push
 $ untracked / tracked 
 $ unmodified / modified 
 $ echo hello world! > a.txt
 $ open .
 $ ls
-$ git status # git의 상태 조회
-untracked files 가 표시되면
+$ git status # git의 상태 조회 untracked files 가 표시되면
 $ git add file.xxx # tacking 됨. 이후 commit 가능 
 $ git add *.txt # tracking 됨. 이후 commit 가능 
 $ git add a.txt b.txt # 여러가지 작성 가능
@@ -48,20 +48,21 @@ $ git diff working directory에 있는 내용만 보인다.
 $ git diff --staged # staging area에 있는 내용만 보인다.
 $ git diff --cashed # staging area에 있는 내용만 보인다.
 $ git difftool # vc로 working directory 버전 내용이 확인가능하다. 
-$ git difftool --staged # vc로 staging area 버전 내용이 확인가능하다. 
+$ git difftool --staged # vc로 staging area 버전 내용이 확인가능하다. ```
+```
 
-.gitconfig 파일에서 설정 
+```.gitconfig 파일에서 설정 
 [diff] 
 	tool = vscode
 [difftool "vscode"]
-	cmd = code --wait --diff $LOCAL $REMOTE 
-vscode 에서 볼 수 있다. 
+	cmd = code --wait --diff $LOCAL $REMOTE vscode 에서 볼 수 있다. 
+```
 
-$ git commit -m 'second commit'  # 버전 생성 
+```$ git commit -m 'second commit'  # 버전 생성 
+$ git commit -m 'second commit' # 버전생성 커밋
 $ git log  # 로그 확인 가능하다.
-$ git commit -am # 모든 파일 커밋...
-
-커밋의 자원 분류..관리.. 
+$ git commit -am # 모든 파일 커밋...```
+```
 
 
 
