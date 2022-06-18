@@ -12,8 +12,9 @@
 3.메뉴중 파일 > GitHub에 사본저장 선택
 4.colaboratory에서 GitHub에 승인을 기다리고 있습니다. 메시지 표시
 5.GitHub 인증
-6.GitHub 저장소(repository;레파지토리)와 브랜치(branch),파일경로가 표시되고, 변경사항 설정 메시지를 입력 commit하고 확인
-7.GitHub에서 지정한 저장소에 코드파일이 추가되었음을 확인 - End -
+6.GitHub 저장소(repository;레파지토리)와 브랜치(branch),파일경로 표시
+7.같은 창에서 변경사항 설정 메시지를 입력 commit하고 확인
+8.GitHub에서 지정한 저장소에 코드파일이 추가되었음을 확인 - End -
 ```
 
 
