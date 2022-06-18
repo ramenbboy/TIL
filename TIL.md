@@ -1,4 +1,24 @@
-##### 2022-06-18 
+##### ***1 Day, 1 Commit!***
+
+##### ***Study Together, Share Together !***
+
+
+
+##### 2022-06-19 google colab 코딩을 github로 옮기기 정리
+
+``` 1.구글 드라이브 접속
+1.Google Drive 접속 
+2.Google colab 파일열기
+3.메뉴중 파일 > GitHub에 사본저장 선택
+4.colaboratory에서 GitHub에 승인을 기다리고 있습니다. 메시지 표시
+5.GitHub 인증
+6.GitHub 저장소(repository;레파지토리)와 브랜치(branch),파일경로가 표시되고, 변경사항 설정 메시지를 입력 commit하고 확인
+7.GitHub에서 지정한 저장소에 코드파일이 추가되었음을 확인 - End -
+```
+
+
+
+##### 2022-06-18 git study 
 
 ``` git study $ git --version
 $ git config --list
@@ -66,110 +86,21 @@ $ git commit -am # 모든 파일 커밋...```
 
 
 
-##### *Big Data AI Service Dev*
+##### *Big Data AI Service Development*
 
-* ADsP 강의 
-  * 1과목 / 2과목 / 3과목 & R
-  * 기출문제 
-  
+* ADsP   
 * Python Machine Learning Pandas Data Analytics - SH, Oh
-
 * 인공지능 기초수학 강의 / 완성코드
+* [Study] 자료구조와 알고리즘
 
-  
-
-
-##### [Study] 자료구조와 알고리즘
-* 01.알고리즘 기초
-
-* 02.기본 자료구조와 배열
-
-* 03.검색 알고리즘
-
-* 04.스택과 큐
-
-* 05.재귀 알고리즘
-
-* 06.정렬 알고리즘
-  * 06-8 힙 정렬
-  * 06-9 도수 정렬
-  
-* 07.문자열 검색
-
-* 08.리스트
-
-* 09.트리 
-
-  
+* 모두의 알고리즘 with 파이썬
 
 
-##### 모두의 알고리즘 with 파이썬
-* 첫째마당 / 둘째마당 / 셋째마당
+* 모두의 데이터 분석
 
-  
+* Multi Campus Python Programing
 
-
-##### 모두의 데이터 분석
-* 01.기온 데이터 분석
-* 02.보충수업
-
-  
-
-
-##### Big Data Analytics 
-
-
-##### Multi Campus Python Programing
-* 기본
-* 중급(실무)
-* 응용
-* 강의 (Prof. Dr Will 양진욱)
-  * 변수, 연산자
-  * 조건문, 반복문
-  * 주피터 노트북 익히기
-  * 분기문, 반복문
-  * 파이썬 자료구조
-  * 파이썬 문자열
-  * 함수와 모듈
-  * 예외처리
-  * 객체지향프로그래밍(상속, 오버라이딩)
-  * 파일 입출력
-
-* 완성코드-실전
-  * 101.Numpy
-  
-  * 102.Pandas
-  
-  * 103.Matplotlib, seaborn, folium
-  
-  * 104.판다스 활용 데이터 분석
-  
-  * 105.기술통계
-  
-  * 106.???
-  
-  * 107.Time_series
-  
-  * 108.차원 축소
-  
-    
-
-
-##### Multi Campus Python Practical Biz
-* biz_01 python_basic
-* biz_02 pandas
-* biz_03 web crawling_basic
-* biz_05 instagram_crawling
-
-
-
-##### 바로써먹는 데이터 분석
-
-* 1부 / 2부 / 3부 
-
-
-
-
-##### 파이썬 자습 (땀!!!)
+* 바로써먹는 데이터 분석
 * [점프 투 파이썬](https://wikidocs.net/book/1) 
+
 * [초보자를 위한 파이썬 300제](https://www.wikidocs.net/book/922)
