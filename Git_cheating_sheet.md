@@ -38,9 +38,11 @@ Prof. 오지혜 님
 
 `git commit -m '<commit message>'` : 커밋 message 작성
 
-`git push origin master` : github로 밀어내`git pull` : github에서 로컬로 당겨오기!
+`git push origin master` : github로 올리기
 
+```git push -f origin master``` : fetched 없이 강제로 올리기  
 
+`git pull` : github에서 로컬로 당겨오기!
 
 ```git config --global user.name <user_name>``` : username
 
