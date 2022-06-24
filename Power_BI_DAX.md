@@ -1,7 +1,5 @@
 ### Power BI Data Analysis eXpressions
 
-
-
 * 측정값 이름 = 함수(테이블이름[열이름])
 
 * 총 수량 = SUM('판매'[수량])
@@ -50,7 +48,7 @@
 
 
 
-*[Contoso Sales Sample Power BI Desktop 파일 참조](https://download.microsoft.com/download/4/6/A/46AB5E74-50F6-4761-8EDB-5AE077FD603C/Contoso%20Sales%20for%20Power%20BI%20Designer.zip)*
+*[Contoso Sales Sample Power BI Desktop file](https://download.microsoft.com/download/4/6/A/46AB5E74-50F6-4761-8EDB-5AE077FD603C/Contoso%20Sales%20for%20Power%20BI%20Designer.zip)*
 
 
 
