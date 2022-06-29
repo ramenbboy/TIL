@@ -18,6 +18,6 @@
 
 
 
-* [heap sort](https://github.com/ramenbboy/)
+* [heap sort](https://drive.google.com/file/d/1HLe0rhQBeWAEb1tXeAKyTO6GsmylBqkv/view?usp=sharing)
 
-* [counting sort](https://github.com/ramenbboy/)
+* [counting sort](https://drive.google.com/file/d/17TgogzDXzAbJt2MGN8jq0aGZuxMkABz_/view?usp=sharing)
